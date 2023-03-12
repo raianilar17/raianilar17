@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anil rai
 - 👀 I’m interested in Autonoumous car
-- 🌱 I’m currently working on Machine learning, Deep learning, and Computer vision.
+- 🌱 I’m currently working on Machine learning, Deep learning, Natural language processing(NLP) and Computer vision(CV).
 - 💞️ I’m looking to collaborate on Self-driving car projects
 - 📫 You can reach out to me raianilar17@gmail.com
 
